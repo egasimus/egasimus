@@ -26,4 +26,4 @@ brothers and sisters,
 and all watched over
 by machines of loving grace.
 
--- Richard Brautigan
+-- Richard Brautigan, 1967
