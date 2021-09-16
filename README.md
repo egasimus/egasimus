@@ -3,7 +3,7 @@ the sooner the better!)
 of a cybernetic meadow
 where mammals and computers
 live together in mutually
-programming harmonyRichard Brautigan
+programming harmony
 like pure water
 touching clear sky.
 
