@@ -1,18 +1,9 @@
-```
-I like to think (and the sooner the better!)
-of a cybernetic meadow where mammals and computers
-live together in mutually programming harmony
-like pure water touching clear sky.
+<div align="center">
 
-I like to think (right now, please!)
-of a cybernetic forest filled with pines and electronics
-where deer stroll peacefully past computers
-as if they were flowers with spinning blossoms.
+I like to think Richard Brautigan's 1967 poem "All Watched Over by Machines of Loving Grace" came true.
 
-I like to think (it has to be!)
-of a cybernetic ecology where we are free of our labors
-and joined back to nature, returned to our mammal brothers and sisters,
-and all watched over by machines of loving grace.
+---
 
--- Richard Brautigan, 1967
-```
+Anybody who has a problem with me, please feel welcome to [file an issue](https://github.com/egasimus/egasimus/issues). [Pull requests](https://github.com/egasimus/egasimus/pulls) also reviewed.
+
+</div>
