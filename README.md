@@ -2,18 +2,19 @@
 
 ---
 
-Yep, that's right, I've taken my profile private. **People who have a problem with me are welcome to [file an issue](https://github.com/egasimus/egasimus/issues). [Pull requests](https://github.com/egasimus/egasimus/pulls) also reviewed.** Not kidding.
+**Yep, that's right, I've taken my profile private.** People who have a problem with me are welcome to [file an issue](https://github.com/egasimus/egasimus/issues). [Pull requests](https://github.com/egasimus/egasimus/pulls) also reviewed. Not kidding.
 
 Most of the repos here are nothing to write home about, anyway.
 Just playing around with different platforms to learn them better.
 Here's a curated list of some things I've been doing in my free time:
 
-|Name|Platform|Description|
-|-------|--------|-----------|
-|[dop](https://github.com/egasimus/dop)|Rust|**Work in progress.** Helps kick bad habits. Encourages good ones.|
-|[dawless](https://github.com/egasimus/dawless)|Rust|**Frozen.** Sample converter for AKAI S3000XL. The only one out there.|
-|[thatsit](https://github.com/egasimus/thatsit)|Rust|**Frozen.** Functional-ish (T)UI library. Powers `dawless`.|
-|[dothot](https://github.com/egasimus/dothot)|NodeJS|**RIP, I guess.** CommonJS hot reloading. Formerly my favorite party trick.|
+|Year|Name|Platform|Description|
+|----|----|--------|-----------|
+|2024|[dop](https://github.com/egasimus/dop)|Rust|**Work in progress.** Helps kick bad habits. Encourages good ones.|
+|2023|[dawless](https://github.com/egasimus/dawless)|Rust|**Frozen.** Sample converter for AKAI S3000XL. The only working one out there.|
+|2023|[thatsit](https://github.com/egasimus/thatsit)|Rust|**Frozen.** Functional-ish (T)UI library. Powers `dawless`.|
+|2020|[dothot](https://github.com/egasimus/dothot)|NodeJS|**RIP, I guess.** CommonJS hot reloading. Formerly my favorite party trick.|
+|2016|[xmonad-equalspacing](https://github.com/egasimus/xmonad-equalspacing)|Haskell|**Probably vastly out of date.** I miss XMonad. I'm quite proud of being able to figure this one out while having absolutely zero idea what I was doing.|
 
 Your usage, feedback, and contribution to these projects is most welcome 🫀 
 
