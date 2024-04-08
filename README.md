@@ -10,7 +10,8 @@ Here's a curated list of some things I've been doing in my free time:
 
 |Year|Name|Platform|Description|
 |----|----|--------|-----------|
-|2024|[dop](https://github.com/egasimus/dop)|Rust|**Work in progress.** Helps kick bad habits. Encourages good ones.|
+|2024|[dop](https://github.com/egasimus/dop)|Rust|**In progress.** Helps kick bad habits. Encourages good ones.|
+|2024|[mpcemu](https://github.com/egasimus/mpcemu)|Rust|**In progress.** Emulator of NEC V53 CPU, as used in AKAI MPC2000XL. About 50% of instruction set done.|
 |2023|[dawless](https://github.com/egasimus/dawless)|Rust|**Frozen.** Sample converter for AKAI S3000XL. The only working one out there.|
 |2023|[thatsit](https://github.com/egasimus/thatsit)|Rust|**Frozen.** Functional-ish (T)UI library. Powers `dawless`.|
 |2020|[dothot](https://github.com/egasimus/dothot)|NodeJS|**RIP, I guess.** CommonJS hot reloading. Formerly my favorite party trick.|
