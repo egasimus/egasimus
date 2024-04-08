@@ -12,7 +12,7 @@ Here's a curated list of some things I've been doing in my free time:
 |2024|[mpcemu](https://github.com/egasimus/mpcemu)|Rust|**In progress.** Emulator of NEC V53 CPU, as used in AKAI MPC2000XL. About 50% of instruction set done.|
 |2023|[dawless](https://github.com/egasimus/dawless)|Rust|**Frozen.** Sample converter for AKAI S3000XL. The only working one out there.|
 |2023|[thatsit](https://github.com/egasimus/thatsit)|Rust|**Frozen.** Functional-ish (T)UI library. Powers `dawless`.|
-|2022|[midichka](https://github.com/egasimus/midichka)|Zig|**Rudimentary.** This was supposed to be a MIDI message router. I ran against a compiler bug in Zig 0.10.0 and moved on to other things. At least I got to write some Zig. It's nice!|
+|2022|[midichka](https://github.com/egasimus/midichka)|Zig|**Rudimentary.** This was supposed to be a MIDI message router. I ran against a compiler bug in Zig 0.10.0 and moved on to other things. At least I got to write some Zig, which was fun!|
 |2020|[dothot](https://github.com/egasimus/dothot)|NodeJS|**RIP, I guess.** CommonJS hot reloading. Formerly my favorite party trick.|
 |2016|[xmonad-equalspacing](https://github.com/egasimus/xmonad-equalspacing)|Haskell|**Probably vastly out of date.** I miss XMonad. I'm quite proud of being able to figure this one out while having absolutely zero idea what I was doing.|
 
