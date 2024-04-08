@@ -6,7 +6,7 @@ Yep, that's right, I've taken my profile private. **People who have a problem wi
 
 Most of the repos here are nothing to write home about, anyway.
 Just playing around with different platforms to learn them better.
-Here's a curated list of some of them instead:
+Here's a curated list of some things I've been doing in my free time:
 
 |Name|Platform|Description|
 |-------|--------|-----------|
