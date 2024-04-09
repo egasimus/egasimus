@@ -14,7 +14,8 @@ Here's a curated list of some things I've been doing in my free time:
 |2023|[thatsit](https://github.com/egasimus/thatsit)|Rust|**Frozen.** Functional-ish (T)UI library. Powers `dawless`.|
 |2022|[midichka](https://github.com/egasimus/midichka)|Zig|**Rudimentary.** This was supposed to be a MIDI message router and processor. I got as far as some of the TUI, ran against a compiler bug in Zig 0.10.0 and moved on to other things. At least I got to write some Zig, which was fun!|
 |2020|[dothot](https://github.com/egasimus/dothot)|NodeJS|**RIP, I guess.** CommonJS hot reloading. Formerly my favorite party trick.|
-|2016|[xmonad-equalspacing](https://github.com/egasimus/xmonad-equalspacing)|Haskell|**Probably vastly out of date by now.** I'm quite proud of being able to figure this one out while having absolutely zero idea what I was doing. I miss XMonad, it was cool.|
+|2019|[redux-helper](https://github.com/egasimus/redux-helper)|React|**Probably OOD.** My attempt at trying to make Redux less annoying. This was before hooks made Redux mostly unneccessary.|
+|2016|[xmonad-equalspacing](https://github.com/egasimus/xmonad-equalspacing)|Haskell|**Probably OOD.** I'm quite proud of being able to figure this one out while having absolutely zero idea what I was doing. I miss XMonad, it was cool.|
 
 Your usage, feedback, and contribution to these projects is most welcome 🫀 
 
