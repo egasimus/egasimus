@@ -1,10 +1,4 @@
-*I like to think Richard Brautigan's 1967 poem "All Watched Over by Machines of Loving Grace" came true.*
-
-**Yep, that's right, I've taken my profile private.** People who have a problem with me are welcome to [file an issue](https://github.com/egasimus/egasimus/issues). [Pull requests](https://github.com/egasimus/egasimus/pulls) also reviewed. Not kidding.
-
-Most of the repos here are nothing to write home about, anyway.
-Just playing around with different platforms to learn them better.
-Here's a curated list of some things I've been doing in my free time:
+Here are some toy projects I occasionally tinker with:
 
 |Repo created|Last commit|Name|Description|
 |-------|-------|----|-----------|
