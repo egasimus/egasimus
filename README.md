@@ -13,7 +13,7 @@ Here are some toy projects I occasionally tinker with:
 |![](https://img.shields.io/github/created-at/egasimus/redux-helper?color=123&label=)|![](https://img.shields.io/github/last-commit/egasimus/redux-helper?color=123&label=)|[redux-helper](https://github.com/egasimus/redux-helper)|**React.** My attempt at making [React Redux](https://react-redux.js.org/) less annoying. Made obsolete by the prevalence of React Hooks as a preferred state-management mechanism.|
 |![](https://img.shields.io/github/created-at/egasimus/xmonad-equalspacing?color=123&label=)|![](https://img.shields.io/github/last-commit/egasimus/xmonad-equalspacing?color=123&label=)|[xmonad-equalspacing](https://github.com/egasimus/xmonad-equalspacing)|**Haskell.** I'm quite proud of being able to figure this one out while having absolutely zero idea what I was doing. I miss [XMonad](https://xmonad.org/), it was cool and its workspace switching when using multiple displays was great.|
 
-Your usage, feedback, and contribution to these projects is most welcome 🫀 
+Your usage, feedback, and contribution to these projects are most welcome 🫀 
 
 ---
 
