@@ -50,14 +50,16 @@ See [my source repo list](https://github.com/egasimus?tab=repositories&q=&type=s
 
 > [!WARNING]
 > 
-> My GMail addresses should be considered compromised. No biggie though - been degoogling anyway. (And GitHub is uncool, too!)
-> 
-> Preferred way to get in touch with me is [rustacean@rootshell.is](mailto:rustacean@rootshell.is).
+> **Oopsie daisy!** My GMail addresses should be considered compromised.
+>
+> No biggie though - been degoogling anyway. (For the record: GitHub is uncool, too!) 
+
+Preferred way to get in touch with me: [rustacean@rootshell.is](mailto:rustacean@rootshell.is).
 
 <details>
   
-<p><em>Especially</em> if you're the <em>very cool guy</em> who somehow managed to attach an unfamiliar Pixel 5 to my Google account and scrambled <a href="https://github.com/alesandar">@alesandar</a>'s phone number in my contact list :wink:</p>
+<p><em>Especially</em> if you're the <em>very cool guy 🤡</em> - or gal! 🤩 - who somehow managed to attach an unfamiliar Pixel 5 to my Google account and scrambled <a href="https://github.com/alesandar">@alesandar</a>'s phone number in my contact list :wink:</p>
 
-<p>Do let me know whether you really honored me with a Google Accounts 0day, what 😁</p>
+<p>Do let me know whether you really burned a Google Accounts 0day in my honor, what 😁</p>
 
 </details>
