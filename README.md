@@ -4,7 +4,12 @@ Self-taught generalist programmer.
 
 Writes code by hand for money to achieve shared understanding.
 
-See [Peter Naur - Programming as Theory Building](https://pablo.rauzy.name/dev/naur1985programming.pdf).
+See [Peter Naur - Programming as Theory Building](https://pablo.rauzy.name/dev/naur1985programming.pdf) for paradigm.
+
+# Contact
+
+* 👍 rustacean@rootshell.is - preferred inbox
+* 👎 adam.b.avramov@gmail.com - passé, and potentially insecure
 
 # Portfolio
 
@@ -45,21 +50,3 @@ See [my source repo list](https://github.com/egasimus?tab=repositories&q=&type=s
 |Created|Touched|What|Why|
 |-------|-------|----|-----------|
 |![](https://img.shields.io/github/created-at/egasimus/postmelodic?color=123&label=)|![](https://img.shields.io/github/last-commit/egasimus/postmelodic?color=123&label=)|[postmelodic](https://github.com/egasimus/postmelodic)|**C.** A musical instrument that chopped samples and let you juggle them over OSC. Another early project I'm proud with, even though it has probably succumbed to bitrot long since I laid eyes upon its glorious mess of a codebase. I did not know the first thing about low-level programming when I did it, and learned tons about how things really work under the hood by writing out my entire though process on paper.|
-
-# Contact
-
-> [!WARNING]
-> 
-> **Oopsie daisy!** My GMail addresses should be considered compromised.
->
-> No biggie though - been degoogling anyway. (For the record: GitHub is uncool, too!) 
-
-Preferred way to get in touch with me: [rustacean@rootshell.is](mailto:rustacean@rootshell.is).
-
-<details>
-  
-<p><em>Especially</em> if you're the <em>very cool guy 🤡</em> - or gal! 🤩 - who somehow managed to attach an unfamiliar Pixel 5 to my Google account and scrambled <a href="https://github.com/alesandar">@alesandar</a>'s phone number in my contact list :wink:</p>
-
-<p>Do let me know whether you really burned a Google Accounts 0day in my honor, what 😁</p>
-
-</details>
